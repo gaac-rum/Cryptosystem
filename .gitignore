@@ -2,3 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Do not ignore these files:
+!.venv/
